@@ -1,0 +1,10 @@
+node_modules
+dist
+build
+coverage
+.vite
+.eslintcache
+*.min.js
+*.min.css
+package-lock.json
+*.log
